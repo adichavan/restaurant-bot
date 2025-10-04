@@ -1,0 +1,14 @@
+# Put one RSS URL per line; lines starting with # are ignored
+# Add SF/local food blogs if you know them
+https://www.seriouseats.com/rss
+https://www.bonappetit.com/feed/rss
+https://www.thekitchn.com/main/rss
+https://sf.eater.com/rss/index.xml
+https://sfstandard.com/food-drink/feed
+https://www.sfgate.com/rss/feed/food-dining-550.php
+https://sfist.com/food/rss
+https://ediblesanfrancisco.com/feed
+https://feeds.feedburner.com/Tablehopper
+https://feeds.feedburner.com/FoodGal
+https://missionlocal.org/tag/food/feed
+https://7x7.com/feeds/Eat-Drink.rss
